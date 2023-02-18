@@ -1,0 +1,33 @@
+body {
+    background-color: forestgreen;
+    text-align: center;
+}
+
+h1 {
+    color: gold;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+button {
+    color: #016f32;
+    width: 200px;
+    background: goldenrod;
+    padding: 20px 0px 20px 0px;
+    font-size: 1.5rem;
+    border-radius: 5%;
+    font-weight: bold;
+    margin: 5px;
+
+}
+
+p {
+    font-weight: bold;
+    font-size: 2rem;
+    color: black;
+}
